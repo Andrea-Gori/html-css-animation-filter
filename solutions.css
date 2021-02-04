@@ -156,7 +156,6 @@
 
 .ex-13-button:hover .ex-13-top-white{
   animation: whiteSpinTop 2s linear;
-  background-color: red;
 }
 
 @keyframes whiteSpinTop {
@@ -188,7 +187,6 @@
 
 .ex-13-button:hover .ex-13-bottom-white{
   animation: whiteSpinBottom 2s linear;
-  background-color: red;
 }
 
 @keyframes whiteSpinBottom {
